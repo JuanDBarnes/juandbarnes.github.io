@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Economics, Universidad de San Andrés, in progress (coursework completed)
+* B.A. in Economics, Universidad Nacional del Nordeste, 2023
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 – present: **Research Assistant / Consultant**, CAF – Development Bank of Latin America
+  and the Caribbean, Buenos Aires
+  * Econometric analysis of household survey microdata for the Economic and Development Report
+  * Research papers and policy briefs on demographic transitions and labor markets in the region
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024: **Data and Policy Analyst**, PUNTO Labs, Buenos Aires
+  * Quantitative analysis of energy transition, decarbonisation and regional productive
+    development policy
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2021 – 2022: **Data Analyst**, Provincial Institute of Statistics and Data Science (IPECD), Chaco
+  * Administrative and survey datasets processed to produce statistical reports for provincial
+    government planning
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Software**: Stata (advanced), R (tidyverse, sf, ggplot2), Python (NumPy, Pandas, statsmodels),
+  SQL, MATLAB, Dynare
+* **Methods**: Applied microeconometrics, causal inference (DiD, IV, RDD), survey data analysis,
+  spatial econometrics, firm-level productivity estimation
+* **Tools**: QGIS, Git/GitHub, LaTeX, RMarkdown/Quarto
+* **Languages**: Spanish (native), English (advanced)
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Additional training
 ======
-* Currently signed in to 43 different slack teams
+* Cartography and Statistical Geography (QGIS) — AcademiaBID (IDB), 2022
+* Spatial Econometrics Applied to Social Sciences (R) — Universidad Nacional de Córdoba, 2021
+* Good Practices for Surveyors — INDEC, 2021
