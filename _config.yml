@@ -30,8 +30,10 @@ author:
   location         : "Buenos Aires, Argentina"
   employer         : "Consultant at CAF - Development Bank of Latin America"
   affiliations:
-    - "Assistant Professor, Universidad Nacional del Nordeste"
-    - "MA candidate, Universidad de San Andrés"
+    - text: "Assistant Professor, Universidad Nacional del Nordeste"
+      icon: "fas fa-building-columns"
+    - text: "MA candidate, Universidad de San Andrés"
+      icon: "fas fa-graduation-cap"
   uri              : # URL
   email            : "jbarnes@udesa.edu.ar"
 
