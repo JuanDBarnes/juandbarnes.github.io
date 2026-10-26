@@ -24,8 +24,7 @@ Experience
   * Research papers and policy briefs on demographic transitions and labor markets in the region
 
 * 2024: **Data and Policy Analyst**, PUNTO Labs, Buenos Aires
-  * Quantitative analysis of energy transition, decarbonisation and regional productive
-    development policy
+  * Quantitative analysis of energy transition, decarbonisation and regional development policy
 
 * 2021 – 2022: **Data Analyst**, Provincial Institute of Statistics and Data Science (IPECD), Chaco
   * Administrative and survey datasets processed to produce statistical reports for provincial
