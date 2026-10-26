@@ -1,5 +1,6 @@
 ---
 title: "Dispersión de Precios y Dinámicas Intradistribución en Ambientes de Alta Inflación"
+title_en: "Price Dispersion and Intradistribution Dynamics in High Inflation Environments"
 collection: publications
 category: earlier
 permalink: /publication/2023-11-01-dispersion-de-precios
