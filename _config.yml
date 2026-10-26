@@ -29,6 +29,9 @@ author:
   bio              : "Labor economics, development and empirical IO."
   location         : "Buenos Aires, Argentina"
   employer         : "Consultant at CAF - Development Bank of Latin America"
+  affiliations:
+    - "Assistant Professor, Universidad Nacional del Nordeste"
+    - "MA candidate, Universidad de San Andrés"
   uri              : # URL
   email            : "jbarnes@udesa.edu.ar"
 
