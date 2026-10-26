@@ -30,7 +30,7 @@ author:
   location         : "Buenos Aires, Argentina"
   employer         : "Consultant at CAF - Development Bank of Latin America"
   uri              : # URL
-  email            : "jbarnes.econ@gmail.com" 
+  email            : # vacio: no se muestra el icono
 
   # Academic websites
   academia         : # URL

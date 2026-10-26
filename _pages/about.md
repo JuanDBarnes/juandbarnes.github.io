@@ -26,7 +26,3 @@ at PUNTO Labs and at the Provincial Institute of Statistics of Chaco.
 In November 2026, I will attend the [RIDGE Summer School](https://www.ridge.org.uy/) and the
 LACEA-LAMES Annual Meeting in Lima.
 
-## Contact
-
-The best way to reach me is by email at
-[jbarnes.econ@gmail.com](mailto:jbarnes.econ@gmail.com).
