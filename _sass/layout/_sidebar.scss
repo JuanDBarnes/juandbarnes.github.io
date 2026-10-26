@@ -305,6 +305,18 @@
 
   li {
     white-space: nowrap;
+
+    // en la barra lateral de escritorio el ancho es fijo (~210px):
+    // dejar que el texto largo pase de renglon en vez de cortarse
+    @include breakpoint($large) {
+      white-space: normal;
+      padding-left: 1.6em;
+      text-indent: -1.6em;
+
+      i {
+        text-indent: 0;
+      }
+    }
   }
 
   a {
