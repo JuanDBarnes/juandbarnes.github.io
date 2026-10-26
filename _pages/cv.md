@@ -23,8 +23,6 @@ Experience
   * Econometric analysis of household survey microdata for the Economic and Development Report
   * Research papers and policy briefs on demographic transitions and labor markets in the region
 
-* 2026 – present: **Research Assistant (part-time)** for Florencia Gabrielli and Manuel Willington
-
 * 2024: **Data and Policy Analyst**, PUNTO Labs, Buenos Aires
   * Quantitative analysis of energy transition, decarbonisation and regional productive
     development policy
