@@ -7,4 +7,4 @@ venue: "Universidad de San Andrés, MA in Economics"
 date: 2026-03-01
 location: "Buenos Aires, Argentina"
 ---
-Teaching Assistant.
+Teaching Assistant for Florencia Gabrielli.
