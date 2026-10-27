@@ -7,4 +7,4 @@ venue: "FCE-UNNE, Bachelor's Degree in Economics"
 date: 2026-08-01
 location: "Chaco, Argentina"
 ---
-Assistant Professor, 2024–2026.
+Lecturer, 2024–2026.
