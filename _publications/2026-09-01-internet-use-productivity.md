@@ -1,5 +1,5 @@
 ---
-title: "Internet Use and Productivity: Evidence from Peruvian Plants"
+title: "Beyond Access: The Intensive Margin of Internet Use in Peruvian Firms"
 collection: publications
 category: workingpapers
 permalink: /publication/2026-09-01-internet-use-productivity
