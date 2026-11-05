@@ -91,6 +91,8 @@ author:
 publication_category:
   workingpapers:
     title: 'Working Papers'
+  policy:
+    title: 'Policy Papers'
   earlier:
     title: 'Earlier Work'
 
