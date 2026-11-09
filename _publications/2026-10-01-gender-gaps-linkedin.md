@@ -1,6 +1,7 @@
 ---
 title: "Gender Gaps in Latin American and Caribbean Labor Markets: Evidence from LinkedIn"
 collection: publications
+published: false   # OCULTO: aun no lanzado por CAF
 category: policy
 permalink: /publication/2026-10-01-gender-gaps-linkedin
 excerpt: 'With Florencia Buccari, Belén Cañuelo and Dolores de la Mata. CAF Policy Paper.'
